@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sara 👋
 
-<!--
-**sgibertm/sgibertm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Science student at **La Salle – Universitat Ramon Llull** in Barcelona, curious about AI across the board and growing alongside it.
 
-Here are some ideas to get you started:
+- 🎓 Third-year student, Bachelor in Artificial Intelligence & Data Science
+- 🔍 Exploring data, machine learning and generative AI
+- 🌱 Interested in big data and agentic AI
+- 🧑‍🏫 Teaching assistant in programming and statistics courses
+- 🌍 Catalan, Spanish, French and English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I've worked with
+
+**Languages:** Python, C, R, SQL, Java, MATLAB  
+**Data & ML:** pandas, NumPy, scikit-learn, Matplotlib  
+**Apps & tools:** Streamlit, Docker, AWS (EC2), Ollama, Git
+
+## Projects
+
+My featured projects are pinned below. Most are university team projects, and each README credits my teammates.
+
+## Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/sara-gibert-medina-1191403aa/)
